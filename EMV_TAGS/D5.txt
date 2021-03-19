@@ -1,0 +1,48 @@
+Accept Online Transactions Without ARPC
+Skip CIAC-Default On CAT3
+RFU
+Key For Offline Encrypted PIN Verification 0: DDA Key 1: Dedicated Key
+Offline Encrypted PIN Verification
+Offline Plaintext PIN Verification
+Session Key Derivation 0: MasterCard Proprietary SKD 1: EMV CSK
+Encrypt Offline Counters
+RFU
+RFU
+RFU
+RFU
+RFU
+Additional Check Table
+Allow Retrieval Of Balance
+Include Counters In AC
+Compute Cryptographic Checksum 00: RFU 01: Compute Cryptographic Checksum Supported 10: Compute Cryptographic Checksum Not Supported 11: RFU
+Compute Cryptographic Checksum 00: RFU 01: Compute Cryptographic Checksum Supported 10: Compute Cryptographic Checksum Not Supported 11: RFU
+RFU
+RFU
+RFU
+RFU
+RFU
+RFU
+Include Transaction In CRM If ARQC Is Requested
+Use CIAC-online To Decide On ARQC Request
+Generate Only TC Or AAC On TC Request
+MTA Check
+Maximum Number Of Days Offline Check
+RFU
+Plaintext Offline Change PIN
+Encrypted Offline Change PIN
+AAC Logging
+TC Logging
+ARQC Pre-logging
+Include Last Online ATC in IAD
+Issuer Host Backwards Compatibility 000: No Host Backwards Compatibility 001: V2.1/V2.2 Host Backwards Compatibility 010: V2.05 Host Backwards Compatibility 011: V1.1/V1.3 Host Backwards Compatibility 1xx: RFU
+Issuer Host Backwards Compatibility 000: No Host Backwards Compatibility 001: V2.1/V2.2 Host Backwards Compatibility 010: V2.05 Host Backwards Compatibility 011: V1.1/V1.3 Host Backwards Compatibility 1xx: RFU
+Issuer Host Backwards Compatibility 000: No Host Backwards Compatibility 001: V2.1/V2.2 Host Backwards Compatibility 010: V2.05 Host Backwards Compatibility 011: V1.1/V1.3 Host Backwards Compatibility 1xx: RFU
+Partial Authorization
+Enable Alternate Interface After First Gen AC
+RFU
+RFU
+RFU
+Torn Transaction Recovery
+MAS4C Processing Flow
+Reset Script Counter With Online Response
+RFU

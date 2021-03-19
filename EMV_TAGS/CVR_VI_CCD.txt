@@ -1,0 +1,40 @@
+AC Returned in Second Generate AC (00 AAC 01 TC 10 Not requested 11 RFU )
+AC Returned in Second Generate AC (00 AAC 01 TC 10 Not requested 11 RFU )
+AC Returned in First Generate AC (00 AAC 01 TC 10 ARQC 11 RFU)
+AC Returned in First Generate AC (00 AAC 01 TC 10 ARQC 11 RFU)
+CDA performed
+Offline DDA performed
+Issuer authentication not performed
+Issuer authentication failed
+Lower order nibble of PIN Try Counter (treat as binary number)
+Lower order nibble of PIN Try Counter (treat as binary number)
+Lower order nibble of PIN Try Counter (treat as binary number)
+Lower order nibble of PIN Try Counter (treat as binary number)
+Offline PIN verification performed
+Offline PIN verification performed and PIN not successfully verified
+PIN try limit exceeded
+Last online transaction incomplete
+Lower offline transaction count limit exceeded
+Upper offline transaction count limit exceeded
+Lower cumulative offline amount limit exceeded
+Upper cumulative offline amount limit exceeded
+or 0 Issuer Discretionary Bit 1
+or 0 Issuer Discretionary Bit 2
+Checked Failed (for CPA cards)
+Match Found in any Additional Table (for CCD cards)
+Number of script commands containing secure messaging processed (treat as binary number)
+Number of script commands containing secure messaging processed (treat as binary number)
+Number of script commands containing secure messaging processed (treat as binary number)
+Number of script commands containing secure messaging processed (treat as binary number)
+Issuer script processing failed
+Offline Data Authentication failed on previous transaction
+Go online on next transaction was set
+Unable to go online
+RFU
+RFU
+RFU
+RFU
+RFU
+RFU
+RFU
+RFU

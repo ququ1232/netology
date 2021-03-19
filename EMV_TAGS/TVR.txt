@@ -1,0 +1,40 @@
+Offline data authentication was not performed
+SDA failed
+ICC data missing
+Card appears on terminal exception file
+DDA failed
+CDA failed
+RFU
+RFU
+ICC and terminal have different apppcation versions
+Expired apppcation
+Apppcation not yet effective
+Requested service not allowed for card product
+New card
+RFU
+RFU
+RFU
+Cardholder verification was not successful
+Unrecognised CVM
+PIN Try Limit exceeded
+PIN entry required and PIN pad not present or not working
+PIN entry required, PIN pad present, but PIN was not entered
+Online PIN entered
+RFU
+RFU
+Transaction exceeds floor limit
+Lower consecutive offline limit exceeded
+Upper consecutive offline limit exceeded
+Transaction selected randomly for online processing
+Merchant forced transaction online
+RFU
+RFU
+RFU
+Default TDOL used
+Issuer authentication failed
+Script processing failed before final GENERATE AC
+Script processing failed after final GENERATE AC
+RFU
+RFU
+RFU
+RFU

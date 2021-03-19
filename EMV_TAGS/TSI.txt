@@ -1,0 +1,16 @@
+Offline data authentication was performed
+Cardholder verification was performed
+Card risk management was performed
+Issuer authentication was performed
+Terminal risk management was performed
+Script processing was performed
+RFU
+RFU
+RFU
+RFU
+RFU
+RFU
+RFU
+RFU
+RFU
+RFU

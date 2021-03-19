@@ -1,0 +1,32 @@
+Length Indicator in bytes
+Length Indicator in bytes
+Length Indicator in bytes
+Length Indicator in bytes
+Length Indicator in bytes
+Length Indicator in bytes
+Length Indicator in bytes
+Length Indicator in bytes
+AC Returned in Second Generate AC (00 AAC 01 TC 10 Not requested 11 RFU )
+AC Returned in Second Generate AC (00 AAC 01 TC 10 Not requested 11 RFU )
+AC Returned in First Generate AC (00 AAC 01 TC 10 ARQC 11 RFU)
+AC Returned in First Generate AC (00 AAC 01 TC 10 ARQC 11 RFU)
+Issuer Authentication performed and failed
+Offline PIN verification performed
+Offline PIN verification failed
+Unable to go online
+Last online transaction not completed
+(Offline) PIN try limit exceeded
+Exceeded velocity checking counters
+New card
+Issuer Authentication failure on last online transaction
+Issuer Authentication not performed after online authorization
+Application blocked by card because offline PIN Try Limit exceeded
+Offline static data authentication failed on last transaction and transaction declined offline
+Number of Issuer Script commands; treat as binary number
+Number of Issuer Script commands; treat as binary number
+Number of Issuer Script commands; treat as binary number
+Number of Issuer Script commands; treat as binary number
+Issuer Script processing failed on last transaction
+Offline dynamic data authentication failed (DDA failed or CDA failed) on last transaction and transaction declined offline
+Offline dynamic data authentication performed
+RFU

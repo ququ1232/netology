@@ -1,0 +1,48 @@
+AC Returned in Second Generate AC (00 AAC 01 TC 10 Not requested 11 RFU )
+AC Returned in Second Generate AC (00 AAC 01 TC 10 Not requested 11 RFU )
+AC Returned in First Generate AC (00 AAC 01 TC 10 ARQC 11 RFU)
+AC Returned in First Generate AC (00 AAC 01 TC 10 ARQC 11 RFU)
+RFU
+Offline PIN Verification Performed
+Offline Encrypted PIN Verification Performed
+Offline PIN Verification Successful
+DDA Returned
+Combined DDA/AC Generation Returned In First Generate AC
+Combined DDA/AC Generation Returned In Second Generate AC
+Issuer Authentication Performed
+CIAC-Default Skipped On CAT3
+RFU
+RFU
+RFU
+Right nibble of Script Counter
+Right nibble of Script Counter
+Right nibble of Script Counter
+Right nibble of Script Counter
+Right nibble of PIN Try Counter
+Right nibble of PIN Try Counter
+Right nibble of PIN Try Counter
+Right nibble of PIN Try Counter
+RFU 
+Unable To Go Online Indicated
+Offline PIN Verification Not Performed
+Offline PIN Verification Failed
+PTL Exceeded
+International Transaction
+Domestic Transaction
+Terminal Erroneously Considers Offline PIN OK
+Lower Consecutive Offline Limit Exceeded
+Upper Consecutive Offline Limit Exceeded
+Lower Cumulative Offline Limit Exceeded
+Upper Cumulative Offline Limit Exceeded
+Go Online On Next Transaction Was Set
+Issuer Authentication Failed
+Script Received
+Script Failed
+RFU
+RFU
+RFU
+RFU
+RFU
+RFU
+Match Found In Additional Check Table
+No Match Found In Additional Check Table
